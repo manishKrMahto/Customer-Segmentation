@@ -1,0 +1,3 @@
+# Customer Segmentation project 
+
+today i done data cleaning and EDA , working on project....
